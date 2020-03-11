@@ -7,3 +7,7 @@ In this study, we collected 70000+ tweets containing one or more colon cancer-re
 
 ### Media Influence in Twitter
 The rise of social media has changed the landscape of people subscribing to news and voicing public opinion. It is necessary to investigate what media play a role in on- and off-line public discussion. Our team took part in analyzing the online influence of media in a popular social networking platform that is Twitter. We collected 7m+ tweets containing external URLs for news tweets, and retracked their source. Our findings indicate that most grassroots media find social media a convenient platform to endorse their contents. Moreover, most users subscribe to news via giant portal services (i.e. [daumkakao](www.daum.net) and [Naver](www.naver.com)). Read the official government report for more information!
+
+### Acknowledgement
+* Our cancer information project is in collaboration with [Seoul National University Bundang Hospital](www.snubh.org).
+* Our media influence project is supported by [Ministry of Culture, Sports and Tourism of Korea](https://www.mcst.go.kr/kor/s_notice/press/pressView.jsp?pSeq=14883).
